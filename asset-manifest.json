@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Portfolio_React/static/css/main.8495095f.chunk.css",
+    "main.js": "/Portfolio_React/static/js/main.30e47ef5.chunk.js",
+    "main.js.map": "/Portfolio_React/static/js/main.30e47ef5.chunk.js.map",
+    "runtime-main.js": "/Portfolio_React/static/js/runtime-main.de90842b.js",
+    "runtime-main.js.map": "/Portfolio_React/static/js/runtime-main.de90842b.js.map",
+    "static/css/2.c3715205.chunk.css": "/Portfolio_React/static/css/2.c3715205.chunk.css",
+    "static/js/2.a60b8736.chunk.js": "/Portfolio_React/static/js/2.a60b8736.chunk.js",
+    "static/js/2.a60b8736.chunk.js.map": "/Portfolio_React/static/js/2.a60b8736.chunk.js.map",
+    "index.html": "/Portfolio_React/index.html",
+    "static/css/2.c3715205.chunk.css.map": "/Portfolio_React/static/css/2.c3715205.chunk.css.map",
+    "static/css/main.8495095f.chunk.css.map": "/Portfolio_React/static/css/main.8495095f.chunk.css.map",
+    "static/js/2.a60b8736.chunk.js.LICENSE.txt": "/Portfolio_React/static/js/2.a60b8736.chunk.js.LICENSE.txt",
+    "static/media/animal.d9c1f066.jpg": "/Portfolio_React/static/media/animal.d9c1f066.jpg",
+    "static/media/cat.9f1d83ef.jpg": "/Portfolio_React/static/media/cat.9f1d83ef.jpg",
+    "static/media/elk.278ee5a9.jpg": "/Portfolio_React/static/media/elk.278ee5a9.jpg",
+    "static/media/squireel.878e46ee.jpg": "/Portfolio_React/static/media/squireel.878e46ee.jpg",
+    "static/media/weld.fe171048.png": "/Portfolio_React/static/media/weld.fe171048.png",
+    "static/media/weld1.3b16da54.jpg": "/Portfolio_React/static/media/weld1.3b16da54.jpg",
+    "static/media/weld2.a33c2e53.jpg": "/Portfolio_React/static/media/weld2.a33c2e53.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de90842b.js",
+    "static/css/2.c3715205.chunk.css",
+    "static/js/2.a60b8736.chunk.js",
+    "static/css/main.8495095f.chunk.css",
+    "static/js/main.30e47ef5.chunk.js"
+  ]
+}
